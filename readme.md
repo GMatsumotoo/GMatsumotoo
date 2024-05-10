@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=GMatsumotoo&show_icons=true&title_color=fff&text_color=fff&icon_color=3C3633&bg_color=6DC5D1&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=GMatsumotoo&show_icons=true&title_color=45474B&text_color=fff&icon_color=3C3633&bg_color=6DC5D1&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Gabriel Matsumoto!
 
