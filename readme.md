@@ -1,8 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=GMatsumotoo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=GMatsumotoo&show_icons=true&title_color=fff&text_color=fff&icon_color=3C3633&bg_color=6DC5D1&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Gabriel Matsumoto!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel Matsumoto&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel Matsumoto&color=6DC5D1&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>👋 Olá! Sou Gabriel Matsumoto, um entusiasta da programação apaixonado por criar soluções criativas e funcionais. Meu foco principal está no desenvolvimento web, e estou constantemente aprimorando minhas habilidades para criar experiências de usuário incríveis.
 
